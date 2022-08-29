@@ -1,0 +1,10 @@
+#
+# application yaml.
+#
+name: "gs-fin-es"
+version: "2.0"
+host: "0.0.0.0"
+port: 8527
+log-http-payload: true
+log-http-response-body: true
+
